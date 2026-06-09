@@ -35,20 +35,6 @@
 5. Перезагрузите Claude Code
 6. Готово! ✅
 
----
-
-## 📁 Структура проекта
-
-```
-ai-agents-and-skills/
-├── README.md
-├── SKILLS.md           # 5 готовых скиллов
-├── AGENTS.md           # 5 готовых суб-агентов
-└── .claude/            (локальная папка на вашем ПК)
-    ├── skills/
-    │   └── SKILLS.md
-    └── agents/
-        └── AGENTS.md
 ```
 
 ---
